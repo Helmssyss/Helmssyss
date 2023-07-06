@@ -7,17 +7,14 @@
 
 </h5>
 
-
+# <div align="center">📊 GitHub Stats:</div>
 <div align="center">
   
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Helmssyss&theme=dracula)
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Helmssyss&theme=dracula&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Helmssyss&theme=dracula&hide_border=false)
+  
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Helmssyss&theme=dracula)
 
 </div>
-
----
 
  ## <div align="center">🌐 Social:</div>
  
@@ -51,12 +48,11 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 </div>
 
-# 📊 GitHub Stats:
-
-
 ---
-<center>
+# <div align="center">👁️</div>
+
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Helmssyss&icon=5&color=11)](https://visitcount.itsvg.in)
 
-</center>
+</div>
