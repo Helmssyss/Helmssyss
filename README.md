@@ -9,7 +9,8 @@
 
 
 <div align="center">
-
+  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Helmssyss&theme=dark)
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Helmssyss&theme=dark&hide_border=false)
