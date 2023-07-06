@@ -10,10 +10,10 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Helmssyss&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Helmssyss&theme=dracula)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Helmssyss&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Helmssyss&theme=dracula&hide_border=false)
 
 </div>
 
