@@ -1,3 +1,4 @@
+---
 
 <h5>
   Merhaba ben Arif. Uludağ Universitesi Elektrik Elektronik Teknolojisi Önlisans öğrencisiyim. Mutlak hedeflerim arasında oyun geliştiricisi olmakla beraber merak duyduğum işleri tutkuyla özümsemek var.
@@ -17,13 +18,6 @@
  <!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Helmssyss&theme=dracula) -->
 
 </div>
-
- ## <div align="center">🌐 Social:</div>
- 
- <div align="center">
-   
-   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22183723)
- </div>
 
 # <div align="center">💻 Tech Stack:</div>
 <div align="center">
@@ -50,10 +44,3 @@
 </div>
 
 ---
-# <div align="center">👁️</div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Helmssyss&icon=5&color=11)](https://visitcount.itsvg.in)
-
-</div>
