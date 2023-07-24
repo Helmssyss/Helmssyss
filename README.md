@@ -8,6 +8,11 @@
 
 </h5>
 
+<div align="center">
+  
+![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/e63fe21b-ea1b-43a2-b86a-2d346e2b07ab)
+</div>
+
 # <div align="center">📊 GitHub Stats:</div>
 <div align="center">
   
@@ -42,5 +47,3 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 </div>
-
----
