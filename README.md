@@ -10,7 +10,7 @@
 
 <div align="center">
   
-![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/e63fe21b-ea1b-43a2-b86a-2d346e2b07ab)
+![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/32dd402b-9504-447c-ba25-b8fceb547751)
 </div>
 
 # <div align="center">📊 GitHub Stats:</div>
