@@ -11,8 +11,6 @@
 <div align="center">
 
 ![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/340592e9-763a-4307-a2f3-2811f1578e66)
-
-![](https://komarev.com/ghpvc/?username=Helmssyss&color=blueviolet&style=flat-square)
 </div>
 
 # <div align="center">📊 GitHub Stats:</div>
@@ -46,4 +44,5 @@
   
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 
+![](https://komarev.com/ghpvc/?username=Helmssyss&color=blueviolet&style=flat-square)
 </div>
