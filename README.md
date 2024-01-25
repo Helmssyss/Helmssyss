@@ -1,7 +1,7 @@
 ---
 
 <h5>
-  Merhaba ben Arif. Mutlak hedeflerim arasında oyun geliştiricisi olmakla beraber merak duyduğum işleri tutkuyla özümsemek var.
+  Merhaba ben Arif. Mutlak hedeflerim arasında mobil uygulama geliştiricisi olmakla beraber merak duyduğum işleri tutkuyla özümsemek var.
   
   <br>Peki bunu nasıl yapıyorum dersiniz?</br>
   O da bi başka videonun konusu...
