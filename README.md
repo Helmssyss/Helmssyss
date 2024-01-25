@@ -1,4 +1,4 @@
----
+![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/68b0c1ed-69a3-498d-bbed-685d40484649)---
 
 <h5>
   Merhaba ben Arif. Mutlak hedeflerim arasında mobil uygulama geliştiricisi olmakla beraber merak duyduğum işleri tutkuyla özümsemek var.
@@ -9,8 +9,9 @@
 </h5>
 
 <div align="center">
+  
+![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/c855e5fa-0820-46d0-9747-8be2d69cbf37)
 
-![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/340592e9-763a-4307-a2f3-2811f1578e66)
 </div>
 
 # <div align="center">📊 GitHub Stats:</div>
