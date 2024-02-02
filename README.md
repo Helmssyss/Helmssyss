@@ -1,11 +1,19 @@
 <h5>
-  Merhaba ben Arif. Mutlak hedeflerim arasında mobil uygulama geliştiricisi olmakla beraber merak duyduğum işleri tutkuyla özümsemek var.
+  Merhaba ben Arif. Mutlak hedeflerim arasında mobil uygulama geliştiricisi olmakla beraber merak duyduklarımı tutkuyla özümsemek var.
   
   <br>Peki bunu nasıl yapıyorum dersiniz?</br>
-  O da bi başka videonun konusu...
+  O da bi başka videonun konusu... 🙂
 
 </h5>
 
+---
+<h5>
+  Hi, I am Arif. I have between my absolute goals Mobile application developer and I have passionately absorb the things I am curious about.
+  
+  <br>So how do I do this, you ask?</br>
+  That is subject of another video... 🙂
+  
+</h5>
 <div align="center">
   
 ![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/68b0c1ed-69a3-498d-bbed-685d40484649)
