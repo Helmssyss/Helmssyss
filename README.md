@@ -1,7 +1,18 @@
-<h5 align="center">
-  Merhaba.
+<h1 align="center">Hi 👋, I'm Arif</h1>
 
-</h5>
+<h3 align="center"> Software Developer • Flutter & Dart • C++ • Python </h3>
+
+<p align="center"> I enjoy building applications, experimenting with new technologies, and turning ideas into working software. </p>
+
+👨‍💻 About Me:
+
+- 📱 Currently focused on Flutter & Dart for mobile application development
+- ⚙️ Experienced with C++, especially application development and networking
+- 🐍 Working with Python for application development and automation
+- 🎮 Interested in Unreal Engine and game development
+- 🌐 Interested in REST APIs, networking, maps and location-based applications
+- 🧩 I enjoy working on both the frontend and backend sides of projects
+- 🚀 Always learning, experimenting and improving my development skills
 
 <div align="center">
   
