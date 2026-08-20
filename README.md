@@ -14,8 +14,6 @@
 - 🧩 I enjoy working on both the frontend and backend sides of projects
 - 🚀 Always learning, experimenting and improving my development skills
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaariif.exe)
-
 <div align="center">
   
 ![github-user-contribution](https://github.com/Helmssyss/Helmssyss/assets/84701901/68b0c1ed-69a3-498d-bbed-685d40484649)
